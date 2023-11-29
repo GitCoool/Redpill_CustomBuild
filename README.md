@@ -23,8 +23,8 @@
 ## 链接
 ***如果没有魔法，请参考 https://github.com/wjz304/hosts 设置hosts***  
 ***请使用 Chromium 内核浏览器 (Chrome / Edge / 360极速 ...)***  
-[【👉快速创建】](https://wjz304.github.io/Redpill_CustomBuild/Issues.html)  
-[【👉快速创建】(dev)](https://wjz304.github.io/Redpill_CustomBuild/Issues.html?dev=1)  
+[【👉快速创建】](https://3wking.github.io/Redpill_CustomBuild/docs/Issues.html)  
+[【👉快速创建】(dev)](https://3wking.github.io/Redpill_CustomBuild/docs/Issues.html?dev=1)  
 `普通模式默认使用pocopico的驱动库, dev模式默认使用我fork的驱动库(如果报 Checksum 错, 请尝试使用(dev)模式), `  
 `并发较多时, 有概率出现curl错误或者 未触发编译的情况, 过几分钟再试...`  
 `如果你看不懂, 或者其他疑难杂症, 请不要浪费时间. 尝试使用arpl构建. https://github.com/fbelavenuto/arpl`
